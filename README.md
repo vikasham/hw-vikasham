@@ -17,4 +17,4 @@ HW 6: Worked with graph traversal and search algorithms as well as heaps
 
 HW 7: Worked with AVL Trees and BSTs
 
-HW 8: **Project Part 2** - Added 2 CPU player strategies (longest-word and highest-scoring) to the Scrabble game, and implemented with tries.  
+HW 8: **Project Part 2** - Added 2 CPU player strategies (longest-word and highest-scoring) to the Scrabble game, and implemented with tries, allowing a human player to play against the computer.
